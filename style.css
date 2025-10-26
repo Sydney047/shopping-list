@@ -17,6 +17,12 @@ div {
     width: 60%;
     gap: 5px;
 }
+#grocery {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 35%;
+}
 h1 {
     color: #4e8ea2;
     font-size: 3rem;
