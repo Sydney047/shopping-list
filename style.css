@@ -1,0 +1,13 @@
+:root {
+    background: #001d39;
+}
+.container {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+    color: #6ea2b3;
+}
+.container h1 {
+    color: #4e8ea2;
+}
